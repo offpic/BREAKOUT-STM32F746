@@ -1,6 +1,8 @@
 # BREAKOUT-STM32F746
 BREAKOUT STM32F746
 
+https://www.youtube.com/watch?v=ZeHNVWzr9EY
+
 THANK YOU 
 https://github.com/KenLo51/STM32F746GDISCO-Breakout
 
